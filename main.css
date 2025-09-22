@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.strikeout {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.priority {
+    color: orange;
+}
